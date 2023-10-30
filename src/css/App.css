@@ -1,3 +1,13 @@
+/*Google Fonts Added*/
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Raleway:wght@100;200;300;400;500;600&display=swap');
+h1,h2,h3,h4,h5{
+  font-family: Agbalumo, serif;
+}
+body{
+  font-family: 'Raleway', Roboto, cursive;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
 .jumbotron{
   background: #b77a4e;
 }
